@@ -1,2 +1,2 @@
 # Practice
-pratice
+practice
